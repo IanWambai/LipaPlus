@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lipa Plus</string>
+    <string name="app_slogan">Cashless payment</string>
+    <string name="by">by Theory of Everything</string>
+    <string name="about">Pay for your go0ds and services cashlessly</string>
+    <string name="font">fonts/ek_mukta.ttf</string>
+    <string name="api_key">6a450ce156924c7a483daa48c65541efbc3ffe0352edef1897f505054bde528b</string>
+    <string name="secret_key">54d8cc3cbdf694733777d47f3a4949eb325fff8884b7a4e1f72f73d76395bd9d</string>
+    <string name="client_id">960ae14d-5cec-4a2d-b62e-b530564856f0</string>
+    <string name="database_name">LIPAPLUSDB</string>
+    <string name="collection_name">BUSINESSES</string>
+    <string name="xlistview_header_hint_normal">Pull to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to refresh</string>
+    <string name="xlistview_header_hint_loading">Loading...</string>
+    <string name="xlistview_footer_hint_normal">Pull up or tap for more</string>
+    <string name="xlistview_footer_hint_ready">Release for more</string>
+    <string name="twitter_url">https://twitter.com</string>
+    <string name="facebook_url">https://twitter.com</string>
+    <string name="lipa_plus_email">suppport@lipaplus.com</string>
+    <string name="website_url">https://twitter.com</string>
+
+</resources>

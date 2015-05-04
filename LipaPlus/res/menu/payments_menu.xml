@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mInputPin"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:showAsAction="always"
+        android:title="Input PIN"/>
+    <item
+        android:id="@+id/mInitialize"
+        android:icon="@drawable/initialize"
+        android:showAsAction="always"
+        android:title="Initialize reader"/>
+
+</menu>

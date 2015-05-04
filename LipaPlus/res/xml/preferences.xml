@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Tax" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="tax"
+            android:summary="Pay 16% tax"
+            android:title="Tax" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Receipts" >
+        <EditTextPreference
+            android:defaultValue="-Powered by Lipa Plus"
+            android:key="signature"
+            android:summary="Signature on receipt"
+            android:title="Receipt signature" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
